@@ -1,8 +1,5 @@
 ### Hi there 👋
-
-<!--
 **liuxianloveqiqi/liuxianloveqiqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,5 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 [![Security Status](https://www.murphysec.com/platform3/v3/badge/1619680540655910912.svg?t=1)](https://www.murphysec.com/accept?code=6f1d1bc7f4af00ab02ce5c4b4247fedf&type=1&from=2&t=2)
+
