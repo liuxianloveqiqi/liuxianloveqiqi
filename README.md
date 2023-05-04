@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Xian(Xian's Blog](https://www.liuxian.asia/)), and I'm a gopher. I'm passionate about coding, problem-solving, and creating beautiful, functional, and efficient applications.Love to learn all new knowledge about golang and keen to explore new technologies 🥰
+I'm Xian(Xian's Blog](https://www.liuxian.asia), and I'm a gopher. I'm passionate about coding, problem-solving, and creating beautiful, functional, and efficient applications.Love to learn all new knowledge about golang and keen to explore new technologies 🥰
 
 ## 💼 
 
