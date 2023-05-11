@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=79&pause=1000&color=56ECF7&background=FFD22900&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&width=1400&height=200&lines=Welcome+to+Xian's+github)](https://git.io/typing-svg)
 # Hi there 👋
 
 I'm Xian(Xian's Blog](https://www.liuxian.asia), and I'm a gopher. I'm passionate about coding, problem-solving, and creating beautiful, functional, and efficient applications.Love to learn all new knowledge about golang and keen to explore new technologies 🥰
@@ -36,8 +37,10 @@ I'm Xian(Xian's Blog](https://www.liuxian.asia), and I'm a gopher. I'm passionat
 - **Read books about computers**
 - **Play paj 😎😎😎**
 
+## 🤗 Visitor
+you are my ![Visitor Count](https://profile-counter.glitch.me/liuxianloveqiqi/count.svg) visitor.Think you!😘😘😘
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7276C&background=FFD22900&center=%E5%81%87&vCenter=%E5%81%87&repeat=%E7%9C%9F&height=70&lines=Hello+World!)](https://git.io/typing-svg)
 
 ## 🚀 Skill stack
 
