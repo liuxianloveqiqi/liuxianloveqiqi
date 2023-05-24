@@ -56,4 +56,4 @@ you are my ![Visitor Count](https://profile-counter.glitch.me/liuxianloveqiqi/co
 
 ## 🔥 Activity graph
 
-[![Xian's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=liuxianloveqiqi&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=liuxianloveqiqi)](https://github.com/ashutosh00710/github-readme-activity-graph)
