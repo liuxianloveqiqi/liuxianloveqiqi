@@ -20,7 +20,7 @@ I'm Xian(Xian's Blog](https://www.liuxian.asia), and I'm a gopher. I'm passionat
 
 ## 🔭 Projects
 
-- **XianShip**
+- **Gopan**
 
 ## 📫 How to reach me
 
@@ -28,7 +28,6 @@ I'm Xian(Xian's Blog](https://www.liuxian.asia), and I'm a gopher. I'm passionat
 - **JueJin:https://juejin.cn/user/2019174153206983**
 - **Blog:https://www.liuxian.asia/**
 - **Email:liu_xian.123@qq.com**
-- **bilibili:https://space.bilibili.com/172364139?spm_id_from=333.1007.0.0**
 - **LeetCode:https://leetcode.cn/u/xian-wst/**
 
 ## 🌟 Fun fact
