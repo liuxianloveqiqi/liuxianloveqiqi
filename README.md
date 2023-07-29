@@ -16,7 +16,7 @@ I'm Xian(Xian's Blog](https://www.liuxian.asia), and I'm a gopher. I'm passionat
 
 ## 🌱 Currently learning
 
-- **XiaoLing Coding**
+- **xiaolin coding**
 
 ## 🔭 Projects
 
