@@ -20,7 +20,8 @@ I'm Xian(Xian's Blog](https://www.liuxian.asia), and I'm a gopher. I'm passionat
 
 ## 🔭 Projects
 
-- **Gopan**
+- [Gopan](https://github.com/liuxianloveqiqi/Gopan)
+- [GopherTok](https://github.com/GophersTeam/GopherTok)
 
 ## 📫 How to reach me
 
