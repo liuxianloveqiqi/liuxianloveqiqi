@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=79&duration=4000&pause=1000&color=16FF9FD2&background=FFD22900&width=1400&height=200&lines=Welcome+to+Xian's+github" alt="Typing SVG" /></a>
 # Hi there 👋
 
-I'm Xian(Xian's Blog](https://www.liuxian.asia), and I'm a gopher. I'm passionate about coding, problem-solving, and creating beautiful, functional, and efficient applications.Love to learn all new knowledge about golang and keen to explore new technologies 🥰
+I'm Xian([Xian's Blog](https://www.liuxian.asia)), and I'm a gopher. I'm passionate about coding, problem-solving, and creating beautiful, functional, and efficient applications.Love to learn all new knowledge about golang and keen to explore new technologies 🥰
 
 ## 💼 
 
@@ -17,6 +17,7 @@ I'm Xian(Xian's Blog](https://www.liuxian.asia), and I'm a gopher. I'm passionat
 ## 🌱 Currently learning
 
 - **xiaolin coding**
+- **Stereotyped writing**
 
 ## 🔭 Projects
 
