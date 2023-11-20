@@ -19,6 +19,7 @@ I'm Xian([Xian's Blog](https://www.liuxian.asia)), and I'm a gopher. I'm passion
 - **xiaolin coding**
 - **Stereotyped writing**
 - **MIT 6.824**
+- **k8s**
 ## 🔭 Projects
 
 - [Gopan](https://github.com/liuxianloveqiqi/Gopan)
